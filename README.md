@@ -9,7 +9,7 @@ cat number_of_Raven.txt
 cat number_of_RAVEN.txt
 2
 
-grep 'raven' raven_lines.txt | wc -l > number_of_raven.txt
+- grep 'raven' raven_lines.txt | wc -l > number_of_raven.txt
 cat number_of_raven.txt
 1
 
